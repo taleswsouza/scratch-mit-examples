@@ -1,2 +1,2 @@
 # scratch-mit-examples
-Exemplos do site https://scratch.mit.edu/.
+Exemplos criados para testar o site https://scratch.mit.edu/.
